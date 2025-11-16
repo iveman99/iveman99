@@ -54,20 +54,30 @@ Excited to collaborate on Data Science projects, analytics dashboards, ML models
 # 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" />
-  <img src="https://skillicons.dev/icons?i=azure" height="45" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" />
-  <img src="https://skillicons.dev/icons?i=c" height="45" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" />
+
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=r" height="50" />
+
+  <!-- Core DS Libraries -->
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="45" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=docker" height="50" />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" />
+
+  <!-- Snowflake FIXED -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" height="45" />
+
+  <!-- Jupyter & Excel -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="45" />
+
 </p>
+
 
 
 ---
