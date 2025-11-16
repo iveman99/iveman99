@@ -5,19 +5,31 @@
 
 </p>
 
-# 👋 I'm Veman Shrinivas Chippa ✨  
-### Aspiring Data Scientist | Making Data Speak  
+## 😎 I'm Veman ✨  
 
----
+<br>
 
-## ✨ About Me  
-Making Data Speak is not just a tagline — it's how I think.  
-I enjoy transforming **messy, unstructured data** into insights, dashboards, and ML-driven outcomes that create real impact.
+<table>
+<tr>
+<td width="60%">
 
-- 🔍 Skilled in **Python, SQL, Power BI, Machine Learning**
-- ☁️ Cloud knowledge in **Azure & OCI**
-- 🎓 Pursuing **Master’s in Data Science**
-- 🤝 Open to meaningful **Data Science & Analytics collaborations**
+### 🧠 I'm an Aspiring Data Scientist  
+Passionate about transforming raw, unstructured data into meaningful insights, dashboards, and ML-based solutions.
+
+### 🤖 Currently learning AI & ML  
+Diving deeper into Machine Learning algorithms, model building, and cloud-based analytics.
+
+### 🤝 Open to collaborations  
+Excited to collaborate on Data Science projects, analytics dashboards, ML models, and impactful real-world solutions.
+
+</td>
+
+<td width="40%">
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/050cc46b-1dc0-42b4-a9c5-1862919b893e" />
+
+</td>
+</tr>
+</table>
 
 ---
 
