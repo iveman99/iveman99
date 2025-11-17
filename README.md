@@ -1,35 +1,38 @@
-<!-- Banner (optional – replace link with your banner) -->
+<!-- Banner -->
 <p align="center">
-<img width="788" height="387" alt="image" src="https://github.com/user-attachments/assets/1d91368a-485e-4528-9f37-34033d4d5b0a" />
-
-
+<img width="2125" height="575" alt="header-banner" src="https://github.com/user-attachments/assets/3b188159-fefe-425f-99aa-3a452d4cf8ec" />
 </p>
 
-## 😎 I'm Veman ✨  
+![visitors](https://vbr.nathanchung.dev/badge?page_id=iveman99.iveman99&color=00cf00)
 
-<br>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 𝗩𝗲𝗺𝗮𝗻 ✨
+
+
+
 
 <table>
-<tr>
-<td width="60%">
-
-### 🧠 I'm an Aspiring Data Scientist  
-Passionate about transforming raw, unstructured data into meaningful insights, dashboards, and ML-based solutions.
-
-### 🤖 Currently learning AI & ML  
-Diving deeper into Machine Learning algorithms, model building, and cloud-based analytics.
-
-### 🤝 Open to collaborations  
-Excited to collaborate on Data Science projects, analytics dashboards, ML models, and impactful real-world solutions.
-
-</td>
-
-<td width="40%">
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/050cc46b-1dc0-42b4-a9c5-1862919b893e" />
-
-</td>
-</tr>
+  <tr>
+    <td style="vertical-align: top; width: 70%;">
+      <h3>🧠 I’m an aspiring <strong>Data Scientist</strong></h3>
+      <p>Passionate about transforming raw and unstructured data into meaningful insights, dashboards, and ML-driven solutions.</p>
+      <h3>🤖 Currently learning <strong>AI, ML & Deep Learning</strong></h3>
+      <p>Diving deeper into Machine Learning algorithms, Python automation, cloud analytics, and real-world AI applications.</p>
+      <h3>🌐 Open to <strong>collaborations</strong></h3>
+       <p>Excited to collaborate on Data Science projects, Power BI dashboards, ML models, and impactful analytics solutions.</p>
+    </td>
+    <td style="text-align: right; vertical-align: top;">
+      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300" alt="Developer GIF"/> 
+    </td>
+  </tr>
 </table>
+
+
+
+
+
+
+
+
 
 ---
 
