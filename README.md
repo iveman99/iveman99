@@ -58,34 +58,33 @@
 
 <p align="center">
 
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python" width="55"/>
-  <img src="https://skillicons.dev/icons?i=r" width="55"/>
-  <img src="https://skillicons.dev/icons?i=java" width="55"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="55"/>
-  <img src="https://skillicons.dev/icons?i=git" width="55"/>
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="55"/>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python" width="55" />
+  <img src="https://skillicons.dev/icons?i=r" width="55" />
+  <img src="https://skillicons.dev/icons?i=java" width="55" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="55" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="55" />
+  <img src="https://skillicons.dev/icons?i=linux" width="55" />
   <br><br>
 
-  <!-- Data Science Libraries -->
-  <img src="https://skillicons.dev/icons?i=numpy" width="55"/>
-  <img src="https://skillicons.dev/icons?i=pandas" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
+  <!-- ML & AI (Square Icons Only) -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="55" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="55" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="55" />
+  <img src="https://skillicons.dev/icons?i=opencv" width="55" />
   <br><br>
 
-  <!-- Tools & Cloud -->
-  <img src="https://skillicons.dev/icons?i=azure" width="55"/>
-  <img src="https://skillicons.dev/icons?i=aws" width="55"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="55"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-  <img src="https://skillicons.dev/icons?i=pycharm" width="55"/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=azure" width="55" />
+  <img src="https://skillicons.dev/icons?i=aws" width="55" />
+  <img src="https://skillicons.dev/icons?i=postman" width="55" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="55" />
+  <img src="https://skillicons.dev/icons?i=pycharm" width="55" />
 
 </p>
+
+
+  
 
 <br>
 
