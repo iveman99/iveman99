@@ -54,128 +54,102 @@
 
 ---
 
-# 🛠 Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-<p align="left">
+<p align="center">
 
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-  <img src="https://skillicons.dev/icons?i=r" height="50" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python" width="55"/>
+  <img src="https://skillicons.dev/icons?i=r" width="55"/>
+  <img src="https://skillicons.dev/icons?i=java" width="55"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="55"/>
+  <img src="https://skillicons.dev/icons?i=git" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="55"/>
+  <br><br>
 
-  <!-- Core DS Libraries -->
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="45" />
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="45" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="45" />
+  <!-- Data Science Libraries -->
+  <img src="https://skillicons.dev/icons?i=numpy" width="55"/>
+  <img src="https://skillicons.dev/icons?i=pandas" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
+  <br><br>
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=docker" height="50" />
-  <img src="https://skillicons.dev/icons?i=azure" height="50" />
-
-  <!-- Snowflake FIXED -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" height="45" />
-
-  <!-- Jupyter & Excel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="45" />
+  <!-- Tools & Cloud -->
+  <img src="https://skillicons.dev/icons?i=azure" width="55"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="55"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="55"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" width="55"/>
 
 </p>
 
+<br>
 
+<h3 align="left">💡 Skills & Current Learnings</h3>
 
----
+<ul align="left">
 
-## 💡 Skills & Current Learnings  
+<li>🤖 <strong>Machine Learning & AI</strong><br>
+Model building, feature engineering, real-world ML pipelines.</li><br>
 
-### 🔸 Machine Learning & AI  
-Model building, data preprocessing, evaluation metrics  
+<li>📊 <strong>Data Visualization & BI</strong><br>
+Power BI, Matplotlib, Seaborn, dashboard creation.</li><br>
 
-### 🔸 Data Visualization & BI  
-Power BI, Matplotlib, Seaborn  
+<li>🧠 <strong>Deep Learning</strong><br>
+Neural Networks using TensorFlow & PyTorch.</li><br>
 
-### 🔸 Cloud Computing  
-Azure & OCI basics, storage, services  
+<li>🗄️ <strong>Databases & SQL</strong><br>
+MySQL, MS SQL, Oracle — queries, joins, procedures.</li><br>
 
-### 🔸 Deep Learning (Beginner)  
-Neural networks, real-world ML use cases  
+<li>☁️ <strong>Cloud & Deployment</strong><br>
+Azure, OCI, APIs, automation, Linux environments.</li>
 
-### 🔸 DevOps Basics  
-Git, version control, deployment workflows  
-
----
-
-# 📌 Featured Projects (Your Projects Added)
-
-### 🔹 **Sales Dashboard – Power BI**  
-📊 A complete sales analysis dashboard for metrics & business insights.  
-🔗 Repo: **https://github.com/iveman99/Sales-dashboard**
+</ul>
 
 ---
 
-### 🔹 **Atori – Corporate Artisanal Gifting App**  
-🎁 A gifting solution app built as part of academic project.  
-🔗 Repo: **https://github.com/iveman99/Atori-Artisanal-Corporate-Gifting-App-1**
 
----
+  # 🧰 My Skills & Utilities
 
-### 🔹 **Ola Dashboard Project (Power BI)**  
-🚗 Ride insights, revenue metrics, customer analysis.  
-🔗 Repo: **https://github.com/iveman99/Ola-Dashboard-Project**
-
----
-
-### 🔹 **Python Basics – Data Types & Logic Structures**  
-🐍 Learning series with scripts & logic building.  
-🔗 Repo: **https://github.com/iveman99/Python-Basics-DataTypes-LogicStructures-ScribbledLogicVol1**
-
----
-
-### 🔹 **Banking Customer Churn Prediction (ML)**  
-🏦 Built ML model to identify churn patterns and customer risk.  
-🔗 Repo: **https://github.com/iveman99/Banking-Customer-Churn-Prediction**
-
----
-
-# 🧰 My Skills & Utilities
-
-| 🎯 **Languages** | 🔧 **Version Control** | 🎨 **Design** | 🖥 **IDEs** |
+| 🎯 *Languages* | 🔧 *Version Control* | 🎨 *Design* | 🖥 *IDEs* |
 |------------------|------------------------|---------------|-------------|
 | Python, SQL, Java, C++ | Git, GitHub | Canva, Figma | VS Code, Jupyter |
 
-| 🤖 **AI Tools** | 🧠 **Productivity** | 🌐 **Community** | ⚙ **Frameworks** |
+| 🤖 *AI Tools* | 🧠 *Productivity* | 🌐 *Community* | ⚙ *Frameworks* |
 |-----------------|---------------------|------------------|------------------|
 | Pandas, NumPy, Sklearn | Notion | LinkedIn, GitHub | Flask, APIs |
 
-| ☁️ **Cloud / Deployment** |
+| ☁️ *Cloud / Deployment* |
 |---------------------------|
 | Azure, OCI, Linux |
 
+
+
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=iveman99&show_icons=true&theme=radical&v=1" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iveman99&layout=compact&theme=radical&v=1" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="left">🌟 Thought of the Day 🌟</h2>
 
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=iveman99&show_icons=true&theme=midnight-purple" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=iveman99&theme=midnight-purple" />
-</p>
-
-<p align="center">
-<img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iveman99&layout=compact&theme=midnight-purple" />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img width="800" src="https://streak-stats.demolab.com?user=iveman99&theme=dark&hide_border=false" />
-</p>
-
----
-
-# 🌞 Thought of the Day 🌞
-
-> **"The whole is greater than the sum of its parts."**  
-> — *Aristotle*
-
----
+  <em>"Data becomes powerful when it drives decisions."</em><br>
+ </p>
