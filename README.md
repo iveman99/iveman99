@@ -1,154 +1,319 @@
-<!-- Banner -->
-<p align="center">
-<img width="2125" height="575" alt="header-banner" src="https://github.com/user-attachments/assets/3b188159-fefe-425f-99aa-3a452d4cf8ec" />
-</p>
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=iveman99.iveman99&color=00cf00)
-
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 𝗩𝗲𝗺𝗮𝗻 ✨
-
-
-
-
-<table>
-  <tr>
-    <td style="vertical-align: top; width: 70%;">
-      <h3>🧠 I’m an aspiring <strong>Data Scientist</strong></h3>
-      <p>Passionate about transforming raw and unstructured data into meaningful insights, dashboards, and ML-driven solutions.</p>
-      <h3>🤖 Currently learning <strong>AI, ML & Deep Learning</strong></h3>
-      <p>Diving deeper into Machine Learning algorithms, Python automation, cloud analytics, and real-world AI applications.</p>
-      <h3>🌐 Open to <strong>collaborations</strong></h3>
-       <p>Excited to collaborate on Data Science projects, Power BI dashboards, ML models, and impactful analytics solutions.</p>
-    </td>
-    <td style="text-align: right; vertical-align: top;">
-      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300" alt="Developer GIF"/> 
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="mailto:info.veman99@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/></a>
-<a href="https://www.linkedin.com/in/veman-chippa/"><img src="https://img.icons8.com/color/48/linkedin.png" height="40"/></a>
-<a href="https://github.com/iveman99"><img src="https://img.icons8.com/ios-glyphs/48/github.png" height="40"/></a>
-<a href="https://iveman.vercel.app"><img src="https://img.icons8.com/windows/48/domain.png" height="40"/></a>
-</p>
-
-✨ *Let’s connect & build something impactful together!* ✨
-
----
-
-## 🐍 GitHub Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
-<h2 align="center">Tech Stack</h2>
+<!-- ========================================= -->
+<!--                BANNER                     -->
+<!-- ========================================= -->
 
 <p align="center">
-
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python" width="55" />
-  <img src="https://skillicons.dev/icons?i=r" width="55" />
-  <img src="https://skillicons.dev/icons?i=java" width="55" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" />
-  <img src="https://skillicons.dev/icons?i=sqlite" width="55" />
-  <img src="https://skillicons.dev/icons?i=linux" width="55" />
-  <br><br>
-
-  <!-- ML & AI (Square Icons Only) -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="55" />
-  <img src="https://skillicons.dev/icons?i=pytorch" width="55" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" width="55" />
-  <img src="https://skillicons.dev/icons?i=opencv" width="55" />
-  <br><br>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=azure" width="55" />
-  <img src="https://skillicons.dev/icons?i=aws" width="55" />
-  <img src="https://skillicons.dev/icons?i=postman" width="55" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="55" />
-  <img src="https://skillicons.dev/icons?i=pycharm" width="55" />
-
+<img width="2125" height="575" alt="iVeman Banner" src="https://github.com/user-attachments/assets/3b188159-fefe-425f-99aa-3a452d4cf8ec" />
 </p>
 
+<p align="center">
+<img src="https://vbr.nathanchung.dev/badge?page_id=iveman99.iveman99&color=00cf00" />
+</p>
 
-  
+<h1 align="center">👋 Hi, I'm iVeman </h1>
 
-<br>
+<h3 align="center">
+🚀 Data Science • AI Engineering • Cloud • Building Digital Products
+</h3>
 
-<h3 align="left">💡 Skills & Current Learnings</h3>
-
-<ul align="left">
-
-<li>🤖 <strong>Machine Learning & AI</strong><br>
-Model building, feature engineering, real-world ML pipelines.</li><br>
-
-<li>📊 <strong>Data Visualization & BI</strong><br>
-Power BI, Matplotlib, Seaborn, dashboard creation.</li><br>
-
-<li>🧠 <strong>Deep Learning</strong><br>
-Neural Networks using TensorFlow & PyTorch.</li><br>
-
-<li>🗄️ <strong>Databases & SQL</strong><br>
-MySQL, MS SQL, Oracle — queries, joins, procedures.</li><br>
-
-<li>☁️ <strong>Cloud & Deployment</strong><br>
-Azure, OCI, APIs, automation, Linux environments.</li>
-
-</ul>
+<p align="center">
+Transforming Ideas into Real-World Solutions Through Data, AI & Technology.
+</p>
 
 ---
 
+## 💫 About Me
 
-  # 🧰 My Skills & Utilities
+I'm **Veman Chippa**, a Data Science enthusiast and builder passionate about creating impactful solutions using **Artificial Intelligence, Machine Learning, Data Analytics, Cloud Computing, and Automation**.
 
-| 🎯 *Languages* | 🔧 *Version Control* | 🎨 *Design* | 🖥 *IDEs* |
-|------------------|------------------------|---------------|-------------|
-| Python, SQL, Java, C++ | Git, GitHub | Canva, Figma | VS Code, Jupyter |
+I enjoy turning ideas into products, solving business problems through technology, and continuously learning emerging technologies that shape the future.
 
-| 🤖 *AI Tools* | 🧠 *Productivity* | 🌐 *Community* | ⚙ *Frameworks* |
-|-----------------|---------------------|------------------|------------------|
-| Pandas, NumPy, Sklearn | Notion | LinkedIn, GitHub | Flask, APIs |
+### 🎯 Current Focus
 
-| ☁️ *Cloud / Deployment* |
-|---------------------------|
-| Azure, OCI, Linux |
-
-
+- 📊 Data Science & Analytics
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning & Computer Vision
+- ☁️ Cloud Computing & Automation
+- 📈 Business Intelligence & Visualization
+- 🚀 Product Development & Startup Building
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Featured Projects
+
+### 🎁 Atori – One Stop Gifting Platform
+
+A digital gifting platform designed to improve customer experience for corporate gifting, festival gifting, employee rewards, weddings, and special occasions.
+
+**Highlights**
+
+- Enhanced User Experience
+- Product Discovery & Personalization
+- PAN India Gifting Solutions
+- Startup Brand Building Strategy
+
+🔗 Portfolio: https://iveman.vercel.app
+
+---
+
+### 🧠 CryptoInfoLine – Enterprise Knowledge Management Platform
+
+An AI-powered enterprise knowledge management solution designed to help organizations manage, search, and retrieve information efficiently.
+
+**Features**
+
+- Intelligent Knowledge Retrieval
+- AI-Powered Search
+- Enterprise Information Management
+- Scalable Architecture
+
+❤️ Built to solve real enterprise knowledge management problems.
+
+---
+
+### 📊 Business Analytics Dashboard
+
+Interactive dashboards built using Power BI and Python for business intelligence and data-driven decision making.
+
+**Features**
+
+- KPI Tracking
+- Interactive Reports
+- Data Visualization
+- Business Insights
+
+---
+
+### 🤖 Machine Learning Projects
+
+A collection of Machine Learning and Data Science projects involving:
+
+- Classification Models
+- Regression Models
+- Predictive Analytics
+- Recommendation Systems
+- Data Pipelines
+- Feature Engineering
+
+---
+
+## 🚀 More Projects
+
+🔹 Data Science Projects
+
+🔹 Artificial Intelligence Applications
+
+🔹 Cloud & Automation Projects
+
+🔹 SQL & Database Systems
+
+🔹 API Integrations
+
+🔹 Power BI Dashboards
+
+🔹 Python Automation Tools
+
+🔹 Analytics Solutions
+
+🌐 Explore all projects:
+
+### https://iveman.vercel.app
+
+---
+
+## ⚡ Tech Arsenal
+
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+<img src="https://skillicons.dev/icons?i=r" width="55"/>
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn" width="55"/>
+<img src="https://skillicons.dev/icons?i=opencv" width="55"/>
+</p>
+
+**Libraries & Tools**
+
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- OpenCV
+- Matplotlib
+- Seaborn
+
+---
+
+### 📊 Data Visualization & BI
+
+- Power BI
+- Dashboard Development
+- KPI Analytics
+- Reporting Solutions
+- Data Storytelling
+
+---
+
+### 🗄️ Databases
+
+- MySQL
+- MS SQL Server
+- Oracle Database
+- SQLite
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure" width="55"/>
+<img src="https://skillicons.dev/icons?i=aws" width="55"/>
+<img src="https://skillicons.dev/icons?i=linux" width="55"/>
+</p>
+
+**Experience With**
+
+- Microsoft Azure
+- AWS
+- Oracle Cloud Infrastructure (OCI)
+- Linux Administration
+- API Integration
+- Cloud Automation
+
+---
+
+### 🛠️ Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+<img src="https://skillicons.dev/icons?i=pycharm" width="55"/>
+<img src="https://skillicons.dev/icons?i=postman" width="55"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=iveman99&show_icons=true&theme=radical&v=1" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iveman99&layout=compact&theme=radical&v=1" />
-      </td>
-    </tr>
-  </table>
+
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=iveman99&show_icons=true&theme=radical&v=1"/>
+
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iveman99&layout=compact&theme=radical&v=1"/>
+
 </div>
 
 ---
 
-<h2 align="left">🌟 Thought of the Day 🌟</h2>
+## 🏆 Achievements & Goals
+
+🎓 B.Sc. Information Technology Graduate
+
+📚 Currently Pursuing Master's in Data Science
+
+🚀 Building AI, Analytics & Data-Driven Applications
+
+☁️ Exploring Cloud Technologies & Automation
+
+📊 Passionate About Data-Driven Decision Making
+
+🎯 Goal: Build impactful technology products and contribute to world-class engineering teams
+
+🌟 Dream Companies
+
+Google • Microsoft • NVIDIA • Amazon AWS • Adobe • Salesforce • Meta • Razorpay • Groww • Zoho
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <em>"Data becomes powerful when it drives decisions."</em><br>
- </p>
+
+<a href="mailto:info.veman99@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/veman-chippa/">
+<img src="https://img.icons8.com/color/48/linkedin.png" height="45"/>
+</a>
+
+<a href="https://github.com/iveman99">
+<img src="https://img.icons8.com/ios-glyphs/48/github.png" height="45"/>
+</a>
+
+<a href="https://iveman.vercel.app">
+<img src="https://img.icons8.com/windows/48/domain.png" height="45"/>
+</a>
+
+</p>
+
+<p align="center">
+
+📧 info.veman99@gmail.com
+
+💼 LinkedIn: linkedin.com/in/veman-chippa
+
+🌐 Portfolio: https://iveman.vercel.app
+
+💻 GitHub: https://github.com/iveman99
+
+</p>
+
+---
+
+## 💭 iVeman Philosophy
+
+> "Technology is not just about writing code.
+> It's about building solutions that create impact."
+
+I believe in:
+
+✨ Continuous Learning
+
+✨ Real-World Problem Solving
+
+✨ Building Useful Products
+
+✨ Leveraging AI for Innovation
+
+✨ Creating Value Through Technology
+
+---
+
+## 🌟 Thought of the Day
+
+<p align="center">
+<em>
+"Data becomes powerful when it drives decisions."
+</em>
+</p>
+
+---
+
+<p align="center">
+
+### Built with ❤️ by iVeman
+
+Data Science • AI Engineering • Cloud • Innovation
+
+</p>
