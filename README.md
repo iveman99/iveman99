@@ -10,7 +10,7 @@
 <img src="https://vbr.nathanchung.dev/badge?page_id=iveman99.iveman99&color=00cf00" />
 </p>
 
-<h1 align="center">👋 Hi, I'm iVeman </h1>
+<h1 align="center">👋 Hi, I'm Veman (iVeman)</h1>
 
 <h3 align="center">
 🚀 Data Science • AI Engineering • Cloud • Building Digital Products
