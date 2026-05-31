@@ -1,159 +1,221 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Veman%20Chippa&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20Cloud%20Engineer&descAlignY=58" />
-</p>
+# Veman Chippa
 
-<h1 align="center">Hey, I'm Veman 👋</h1>
+### AI Product Engineer
 
-<p align="center">
-Building intelligent systems that solve real-world problems.
-</p>
-
-<p align="center">
-Cloud Engineer → Data Scientist → AI Builder
-</p>
+Building intelligent systems, enterprise AI solutions, and digital products that solve real-world problems.
 
 ---
 
 ## About
 
-I'm passionate about building products at the intersection of:
+I'm an engineer focused on transforming ideas into products.
 
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- ☁️ Cloud Engineering
-- ⚡ Automation
-- 🚀 Product Development
+My work spans AI systems, enterprise software, analytics platforms, digital experiences, and automation solutions.
 
-My goal is simple:
-
-> Build technology that creates real impact.
-
-Currently pursuing a Master's in Data Science while building AI-powered products and scalable software systems.
+Currently exploring how Artificial Intelligence, Data, and Software Engineering can be combined to build scalable products that create measurable impact.
 
 ---
 
-## Currently Building
+## Selected Work
 
-### 🧠 CryptoInfoLine
+### 🧠 Enterprise AI Knowledge Assistant
 
-AI-powered Enterprise Knowledge Management Platform.
+**Enterprise AI • RAG • Knowledge Management**
 
-Helping organizations search, retrieve, and manage knowledge efficiently using intelligent systems.
+An enterprise-grade AI knowledge assistant that enables employees to interact with organizational knowledge through natural language.
 
-**Focus**
-- AI Search
-- Knowledge Retrieval
-- Enterprise Automation
-- Scalable Architecture
+Built using Retrieval-Augmented Generation (RAG), document intelligence, and secure access controls to deliver source-cited answers from internal company documents.
 
----
+**Highlights**
 
-### 🎁 Atori
+* Retrieval-Augmented Generation (RAG)
+* Enterprise Knowledge Search
+* Role-Based Access Control
+* Source-Cited Responses
+* Internal AI Assistant Simulation
 
-Digital gifting platform designed for businesses and special occasions.
+**Live Demo**
 
-**Focus**
-- Product Strategy
-- User Experience
-- Customer Analytics
-- Growth Systems
+https://privategpt-iveman.vercel.app/
 
----
+**GitHub**
 
-### 📊 Analytics & Decision Intelligence
+https://github.com/iveman99/enterprise-ai-assistant
 
-Building dashboards and reporting systems that transform raw data into actionable business insights.
+**Case Study**
+
+https://www.linkedin.com/posts/veman-chippa_privategpt-enterpriseai-generativeai-ugcPost-7459507015795621889-bUCl/
 
 ---
 
-## Current Interests
+### 🎯 Enigma Tech Fest Platform
 
-```text
-Artificial Intelligence
-Machine Learning
-LLM Applications
-AI Agents
-Cloud Computing
-System Design
-Automation
-Product Engineering
-```
+**Product Development • Leadership • SEO**
+
+Official platform built for Enigma, a University of Mumbai technology festival.
+
+Led the initiative from concept to deployment, managing execution, stakeholder coordination, branding, registrations, digital presence, and search visibility.
+
+**Highlights**
+
+* Built Entire Platform from Scratch
+* End-to-End Product Ownership
+* SEO Optimization
+* University Recognition
+* First Page Google Rankings
+
+**Website**
+
+https://enigmaudcs.in
+
+**GitHub**
+
+https://github.com/iveman99/enigma-event
+
+**Case Study**
+
+https://www.linkedin.com/posts/veman-chippa_enigma-universityofmumbai-techfest-ugcPost-7445395075657994241-PQ5S/
 
 ---
 
-## Tech Stack
+### 📚 Leo Club Interactive Digital Docket
 
-```text
-Python • SQL • Azure • AWS • Linux
+**Digital Experience • Interactive Storytelling**
 
-Machine Learning • Deep Learning
+A modern web-based annual report designed to replace static PDFs with an immersive digital experience.
 
-Power BI • Analytics • Visualization
+Built to showcase organizational achievements, leadership initiatives, community impact, and service activities through interactive storytelling.
 
-Automation • APIs • Cloud Infrastructure
-```
+**Highlights**
+
+* Interactive Annual Report
+* Story-Driven Experience
+* Modern Web Presentation
+* Organizational Branding
+* Community Impact Showcase
+
+**Website**
+
+https://leo-club-of-bhiwandi-docket.vercel.app/
+
+**GitHub**
+
+https://github.com/iveman99/Leo-Club-Of-Bhiwandi
+
+**Case Study**
+
+https://www.linkedin.com/posts/veman-chippa_leoclub-leoclubofbhiwandi-leodistrict3231a2-ugcPost-7444023045750431744-HA_O/
 
 ---
 
-## Featured Repositories
+### 🤖 BookSenseAI
 
-⭐ CryptoInfoLine
+**Machine Learning • Recommendation Systems**
 
-⭐ Atori
+AI-powered recommendation platform built using collaborative filtering and cosine similarity models.
 
-⭐ AI & Machine Learning Projects
+Designed to help users discover books through personalized recommendations while demonstrating production-ready machine learning deployment.
 
-⭐ Analytics Dashboards
+**Highlights**
+
+* Recommendation Engine
+* Machine Learning Deployment
+* Automated Model Loading
+* Full Stack Architecture
+* Production Hosting
+
+**Website**
+
+https://iveman-booksenseai-berf.onrender.com/
+
+**GitHub**
+
+https://github.com/iveman99/Book-Recommender-System
+
+**Case Study**
+
+https://www.linkedin.com/posts/veman-chippa_machinelearning-datascience-flask-activity-7397224331639959552-m35Q
+
+---
+
+### 📊 Ola Analytics Dashboard
+
+**Business Intelligence • Data Analytics**
+
+Interactive dashboard built to transform operational ride data into actionable business insights.
+
+Provides visibility into performance metrics, customer trends, revenue indicators, and operational KPIs.
+
+**Highlights**
+
+* Business Intelligence
+* KPI Tracking
+* Executive Reporting
+* Data Visualization
+* Decision Support
+
+**GitHub**
+
+https://github.com/iveman99/Ola-Dashboard-Project
+
+**Case Study**
+
+https://www.linkedin.com/posts/veman-chippa_exceldashboard-dataanalytics-oladashboard-activity-7391074167544119296-bKE7
+
+---
+
+## Portfolio
+
+Explore detailed project breakdowns, case studies, and product builds.
+
+https://iveman99.github.io/iveman/
+
+---
+
+## Build Archive
+
+Beyond the projects listed above, I continuously build:
+
+* AI Applications
+* Product Prototypes
+* Analytics Platforms
+* Automation Workflows
+* Data Systems
+* Infrastructure Experiments
+
+Explore all repositories:
+
+https://github.com/iveman99
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iveman99&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iveman99&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
-
----
-
-## Vision
-
-I believe the future belongs to people who can combine:
-
-- Engineering
-- Data
-- AI
-- Product Thinking
-
-to build solutions that improve how people work, learn, and make decisions.
 
 ---
 
 ## Connect
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/veman-chippa/">
-LinkedIn
-</a>
-•
-<a href="https://iveman.vercel.app">
 Portfolio
-</a>
-•
-<a href="mailto:info.veman99@gmail.com">
-Email
-</a>
 
-</p>
+https://iveman99.github.io/iveman/
+
+LinkedIn
+
+https://www.linkedin.com/in/veman-chippa/
+
+GitHub
+
+https://github.com/iveman99
+
+Email
+
+[info.veman99@gmail.com](mailto:info.veman99@gmail.com)
 
 ---
 
-<p align="center">
-
-Building AI Products • Intelligent Systems • Automation
-
-</p>
+> Building products. Solving problems. Shipping continuously.
