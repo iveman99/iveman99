@@ -1,195 +1,121 @@
-# Veman Chippa
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:111827,100:2563EB&text=Veman%20Chippa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Product%20Engineer%20•%20Building%20Intelligent%20Systems&descAlignY=60" />
+</p>
 
-### AI Product Engineer
+<h1 align="center">Building products, not just projects.</h1>
 
-Building intelligent systems, enterprise AI solutions, and digital products that solve real-world problems.
+<p align="center">
+AI Product Engineer • Enterprise AI • Data Products • Automation
+</p>
+
+<p align="center">
+<a href="https://iveman99.github.io/iveman/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/veman-chippa/">LinkedIn</a> •
+<a href="mailto:info.veman99@gmail.com">Email</a>
+</p>
 
 ---
 
-## About
+## What I Do
 
-I'm an engineer focused on transforming ideas into products.
+I build software that helps people find information faster, make better decisions, and automate repetitive work.
 
-My work spans AI systems, enterprise software, analytics platforms, digital experiences, and automation solutions.
+My interests currently revolve around:
 
-Currently exploring how Artificial Intelligence, Data, and Software Engineering can be combined to build scalable products that create measurable impact.
-
----
-
-## Selected Work
-
-### 🧠 Enterprise AI Knowledge Assistant
-
-**Enterprise AI • RAG • Knowledge Management**
-
-An enterprise-grade AI knowledge assistant that enables employees to interact with organizational knowledge through natural language.
-
-Built using Retrieval-Augmented Generation (RAG), document intelligence, and secure access controls to deliver source-cited answers from internal company documents.
-
-**Highlights**
-
+* Enterprise AI Systems
 * Retrieval-Augmented Generation (RAG)
-* Enterprise Knowledge Search
-* Role-Based Access Control
-* Source-Cited Responses
-* Internal AI Assistant Simulation
-
-**Live Demo**
-
-https://privategpt-iveman.vercel.app/
-
-**GitHub**
-
-https://github.com/iveman99/enterprise-ai-assistant
-
-**Case Study**
-
-https://www.linkedin.com/posts/veman-chippa_privategpt-enterpriseai-generativeai-ugcPost-7459507015795621889-bUCl/
+* Knowledge Management Platforms
+* Product Engineering
+* Intelligent Automation
 
 ---
 
-### 🎯 Enigma Tech Fest Platform
+## Selected Builds
 
-**Product Development • Leadership • SEO**
+### Enterprise AI Knowledge Assistant
 
-Official platform built for Enigma, a University of Mumbai technology festival.
+Enterprise-grade AI assistant designed to help organizations interact with internal knowledge through natural language.
 
-Led the initiative from concept to deployment, managing execution, stakeholder coordination, branding, registrations, digital presence, and search visibility.
+**Built with:** RAG, document intelligence, source-cited retrieval, role-based access control.
 
-**Highlights**
+**Links**
 
-* Built Entire Platform from Scratch
-* End-to-End Product Ownership
-* SEO Optimization
-* University Recognition
-* First Page Google Rankings
+Live → https://privategpt-iveman.vercel.app/
 
-**Website**
-
-https://enigmaudcs.in
-
-**GitHub**
-
-https://github.com/iveman99/enigma-event
-
-**Case Study**
-
-https://www.linkedin.com/posts/veman-chippa_enigma-universityofmumbai-techfest-ugcPost-7445395075657994241-PQ5S/
+Code → https://github.com/iveman99/enterprise-ai-assistant
 
 ---
 
-### 📚 Leo Club Interactive Digital Docket
+### Enigma Tech Fest Platform
 
-**Digital Experience • Interactive Storytelling**
+Official digital platform for a University of Mumbai technology festival.
 
-A modern web-based annual report designed to replace static PDFs with an immersive digital experience.
+Owned the complete lifecycle from idea to deployment, including product strategy, execution, registrations, branding, and SEO.
 
-Built to showcase organizational achievements, leadership initiatives, community impact, and service activities through interactive storytelling.
+**Result:** Achieved first-page Google rankings for multiple event-related keywords.
 
-**Highlights**
+Live → https://enigmaudcs.in
 
-* Interactive Annual Report
-* Story-Driven Experience
-* Modern Web Presentation
-* Organizational Branding
-* Community Impact Showcase
-
-**Website**
-
-https://leo-club-of-bhiwandi-docket.vercel.app/
-
-**GitHub**
-
-https://github.com/iveman99/Leo-Club-Of-Bhiwandi
-
-**Case Study**
-
-https://www.linkedin.com/posts/veman-chippa_leoclub-leoclubofbhiwandi-leodistrict3231a2-ugcPost-7444023045750431744-HA_O/
+Code → https://github.com/iveman99/enigma-event
 
 ---
 
-### 🤖 BookSenseAI
+### Leo Club Interactive Digital Docket
 
-**Machine Learning • Recommendation Systems**
+Transformed a traditional PDF annual report into an interactive digital experience.
 
-AI-powered recommendation platform built using collaborative filtering and cosine similarity models.
+Designed to showcase leadership initiatives, organizational achievements, and community impact through modern storytelling.
 
-Designed to help users discover books through personalized recommendations while demonstrating production-ready machine learning deployment.
+Live → https://leo-club-of-bhiwandi-docket.vercel.app/
 
-**Highlights**
-
-* Recommendation Engine
-* Machine Learning Deployment
-* Automated Model Loading
-* Full Stack Architecture
-* Production Hosting
-
-**Website**
-
-https://iveman-booksenseai-berf.onrender.com/
-
-**GitHub**
-
-https://github.com/iveman99/Book-Recommender-System
-
-**Case Study**
-
-https://www.linkedin.com/posts/veman-chippa_machinelearning-datascience-flask-activity-7397224331639959552-m35Q
+Code → https://github.com/iveman99/Leo-Club-Of-Bhiwandi
 
 ---
 
-### 📊 Ola Analytics Dashboard
+### BookSenseAI
 
-**Business Intelligence • Data Analytics**
+Machine-learning-powered recommendation engine built using collaborative filtering and similarity models.
 
-Interactive dashboard built to transform operational ride data into actionable business insights.
+Live → https://iveman-booksenseai-berf.onrender.com/
 
-Provides visibility into performance metrics, customer trends, revenue indicators, and operational KPIs.
+Code → https://github.com/iveman99/Book-Recommender-System
 
-**Highlights**
+---
 
-* Business Intelligence
-* KPI Tracking
-* Executive Reporting
-* Data Visualization
-* Decision Support
+### Ola Analytics Dashboard
 
-**GitHub**
+Business intelligence dashboard focused on operational metrics, customer trends, and executive reporting.
 
-https://github.com/iveman99/Ola-Dashboard-Project
-
-**Case Study**
-
-https://www.linkedin.com/posts/veman-chippa_exceldashboard-dataanalytics-oladashboard-activity-7391074167544119296-bKE7
+Code → https://github.com/iveman99/Ola-Dashboard-Project
 
 ---
 
 ## Portfolio
 
-Explore detailed project breakdowns, case studies, and product builds.
+Instead of listing every project here, I maintain a dedicated portfolio containing detailed case studies, architecture decisions, screenshots, and build logs.
 
-https://iveman99.github.io/iveman/
+🔗 https://iveman99.github.io/iveman/
 
 ---
 
 ## Build Archive
 
-Beyond the projects listed above, I continuously build:
+I continuously experiment with:
 
 * AI Applications
-* Product Prototypes
+* Data Systems
 * Analytics Platforms
 * Automation Workflows
-* Data Systems
-* Infrastructure Experiments
+* Product Prototypes
+* Infrastructure Projects
 
 Explore all repositories:
 
-https://github.com/iveman99
+🔗 https://github.com/iveman99
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iveman99&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -198,24 +124,6 @@ https://github.com/iveman99
 
 ---
 
-## Connect
-
-Portfolio
-
-https://iveman99.github.io/iveman/
-
-LinkedIn
-
-https://www.linkedin.com/in/veman-chippa/
-
-GitHub
-
-https://github.com/iveman99
-
-Email
-
-[info.veman99@gmail.com](mailto:info.veman99@gmail.com)
-
----
-
-> Building products. Solving problems. Shipping continuously.
+<p align="center">
+Building intelligent systems that create real-world impact.
+</p>
